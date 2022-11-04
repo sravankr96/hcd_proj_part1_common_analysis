@@ -55,7 +55,7 @@ On a high level, we are performing the below transformations,
 
 Below is the final visual plotted using the above transformed data,
 
-[Image1](https://github.com/sravankr96/hcd_proj_part1_common_analysis/blob/main/part1_analysis_viz.png)
+[Rate of infection change with masking policy](https://github.com/sravankr96/hcd_proj_part1_common_analysis/blob/main/part1_analysis_viz.png)
 ![Alt text](https://github.com/sravankr96/hcd_proj_part1_common_analysis/blob/main/part1_analysis_viz.png)
 
 The plot shows us few interesting findings, we see the first change point around 2020-04, which was the first peak of the pandemic, which pushed the mask mandating and eventually reducing the transmission rate by second change point. The third change point shows an increase in the cases despite the use of masks, this is the peak stage of infection. At the 5th change point, we see an increase, despite that the mask mandating was removed, which might be due to the vaccination spread. At the 6th change pint, it is quite interesting to see why the masks are not mandated despite the peak infection rate at this time, will this be because people are already aware about the pandemic and have been voluntarily following the masking policy without mandating. In summary, we see a major drift in the infection rate during the initial months of the infection, however as we progressed there are many other variables like vaccination, public awareness, remote work etc. that effected the infection change which does not show much correlation with the masking policy.
