@@ -6,7 +6,7 @@
 
 This repository contains analysis of COVID confirmed cases and masking policies intended for the project part 1 for DATA 512 Human Centered Data Science course at the University of Washington - Masters in Data Science program
 
-# Goal of this Project: Professionalism & Reproducibility
+# Goal of this Project:
 
 Over the past few years, the global pandemic has had an severe impact on all of us. This had a horrible, disruptive effect on many countries, and it greatly harmed the lives of countless people and their families.  One aspect of the pandemic's datafication that has been challenging to ignore during the past three years. In other words, a lot of data about the personal cost of the pandemic has been acquired, collated, and presented. With the aid of this information, we have the chance to look into the epidemic from a number of different perspectives in order to understand how it has impacted both individuals and society. 
 
